@@ -1,5 +1,5 @@
 
 def hello():
-    print("Hello world")
+    print("Salut quotient social!")
 
 hello()
